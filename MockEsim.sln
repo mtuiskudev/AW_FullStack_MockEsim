@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockEsim", "MockEsim\MockEsim.csproj", "{D3A91CA1-1B09-4424-93C1-C2F284C15448}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockUnitTest", "MockUnitTest\MockUnitTest.csproj", "{98282F89-6931-42B3-BDC1-0C51B988B8BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3A91CA1-1B09-4424-93C1-C2F284C15448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A91CA1-1B09-4424-93C1-C2F284C15448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A91CA1-1B09-4424-93C1-C2F284C15448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3A91CA1-1B09-4424-93C1-C2F284C15448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98282F89-6931-42B3-BDC1-0C51B988B8BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98282F89-6931-42B3-BDC1-0C51B988B8BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98282F89-6931-42B3-BDC1-0C51B988B8BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98282F89-6931-42B3-BDC1-0C51B988B8BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2D21AC3-8A72-4262-ADFA-19D22C91969B}
+	EndGlobalSection
+EndGlobal
